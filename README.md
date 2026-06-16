@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Niraj Patel 👋
 
-<!--
-**imNirajPatel/imNirajPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python Developer
+* Learning Data Science and Machine Learning
+* Exploring Java and SQL
+* Building real-world projects
+
+## Technologies & Tools
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Git
+* GitHub
+* Jupyter Notebook
+* SQL
+
+## Featured Project
+
+### Data Science Salaries Analysis
+
+A data analysis project exploring salary trends across experience levels, company sizes, remote work ratios, and job roles using Python.
+
+Repository:
+github.com/imNirajPatel/DS-Salaries-Analysis
+
+## Current Goals
+
+* Build Machine Learning projects
+* Strengthen Data Structures & Algorithms
+* Participate in Hackathons
+* Contribute to Open Source
+
+## Connect With Me
+
+LinkedIn:
+linkedin.com/in/niraj-patel08
+
+GitHub:
+github.com/imNirajPatel
