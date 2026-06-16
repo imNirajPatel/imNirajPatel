@@ -2,14 +2,14 @@
 
 🎓 Computer Engineering Student
 
-## About Me
+## 🚀 About Me
 
 * Python Developer
 * Learning Data Science and Machine Learning
 * Exploring Java and SQL
 * Building real-world projects
 
-## Technologies & Tools
+## 🛠 Technologies & Tools
 
 * Python
 * Pandas
@@ -20,7 +20,7 @@
 * Jupyter Notebook
 * SQL
 
-## Featured Project
+## 📊 Featured Project
 
 ### Data Science Salaries Analysis
 
@@ -29,14 +29,14 @@ A data analysis project exploring salary trends across experience levels, compan
 Repository:
 github.com/imNirajPatel/DS-Salaries-Analysis
 
-## Current Goals
+## 📈 Current Goals
 
 * Build Machine Learning projects
 * Strengthen Data Structures & Algorithms
 * Participate in Hackathons
 * Contribute to Open Source
 
-## Connect With Me
+## 📫 Connect With Me
 
 LinkedIn:
 linkedin.com/in/niraj-patel08
