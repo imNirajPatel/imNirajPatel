@@ -42,4 +42,4 @@ LinkedIn:
 linkedin.com/in/niraj-patel08
 
 GitHub:
-github.com/imNirajPatel
+ github.com/imNirajPatel
