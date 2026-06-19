@@ -19,6 +19,7 @@
 * GitHub
 * Jupyter Notebook
 * SQL
+* Seaborn 
 
 ## 📊 Featured Project
 
