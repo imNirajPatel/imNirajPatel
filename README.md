@@ -33,7 +33,7 @@ github.com/imNirajPatel/DS-Salaries-Analysis
 
 ## 📈 Current Goals
 
-* Build Machine Learning projects
+* Build real-world projects
 * Strengthen Data Structures & Algorithms
 * Participate in Hackathons
 * Contribute to Open Source
