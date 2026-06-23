@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering Student
 
-## 🚀 About Me
+##  About Me
 
 * Python Developer
 * Learning Data Science and Machine Learning
