@@ -6,7 +6,7 @@
 
 * Python Developer
 * Learning Data Science and Machine Learning
-* Exploring SQL
+* Exploring SQL,MySQL
 * Exploring Artificial Intelligence
 * Building real-world projects
 
