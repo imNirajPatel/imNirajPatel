@@ -1,7 +1,7 @@
 # Hi, I'm Niraj Patel 👋
 
 🎓 Computer Engineering Student
-aaa
+
 ##  About Me
 
 * Python Developer
