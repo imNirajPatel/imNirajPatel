@@ -1,4 +1,4 @@
-axa# Hi, I'm Niraj Patel 👋
+# Hi, I'm Niraj Patel 👋
 
 🎓 Computer Engineering Student
 
